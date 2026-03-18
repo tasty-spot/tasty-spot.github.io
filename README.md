@@ -49,17 +49,11 @@ This project was built by students of **Zicron School** as part of a practical l
 ## 📂 Project Structure
 
 ```text
-zicron-tasty-spot/
+tasty-spot/
 ├── index.html        # Main homepage
-├── about.html        # About the restaurant
-├── menu.html         # Food menu page
-├── contact.html      # Contact page
 │
 ├── css/
 │   └── style.css     # Main stylesheet
-│
-├── js/
-│   └── script.js     # JavaScript functionality
 │
 ├── images/           # All images used on the site
 │
