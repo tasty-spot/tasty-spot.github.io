@@ -57,6 +57,8 @@ tasty-spot/
 │
 ├── images/           # All images used on the site
 │
+├── svg/              # All svg images used for social media icons
+│
 └── README.md         # Project documentation
 ```
 
