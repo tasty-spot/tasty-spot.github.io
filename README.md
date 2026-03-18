@@ -21,7 +21,7 @@ The goal of this project was to create a functional and visually appealing websi
 
 ## 🚀 Live Demo
 
-👉 [View Website](tasty-spot.github.io)
+👉 [View Website](https://tasty-spot.github.io/)
 ---
 
 ## 🛠️ Built With
