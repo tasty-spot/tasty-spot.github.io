@@ -48,17 +48,23 @@ This project was built by students of **Zicron School** as part of a practical l
 
 ## 📂 Project Structure
 
+```text
 zicron-tasty-spot/
-│
-├── index.html # Main homepage
+├── index.html        # Main homepage
+├── about.html        # About the restaurant
+├── menu.html         # Food menu page
+├── contact.html      # Contact page
 │
 ├── css/
-│ └── style.css # Main stylesheet
+│   └── style.css     # Main stylesheet
 │
-├── images/ # All images used on the site
+├── js/
+│   └── script.js     # JavaScript functionality
 │
-└── README.md # Project documentation
-
+├── images/           # All images used on the site
+│
+└── README.md         # Project documentation
+```
 
 ⭐ Acknowledgements
 
@@ -81,8 +87,9 @@ This project is open-source and available for educational purposes.
    git clone https://github.com/tasty-spot/tasty-spot.github.io
 
 Open the folder:
-
-cd tasty-spot.github.io
+```bash
+   cd tasty-spot.github.io
+```
 
 Open index.html in your browser
 
