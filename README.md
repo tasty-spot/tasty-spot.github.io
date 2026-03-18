@@ -21,9 +21,7 @@ The goal of this project was to create a functional and visually appealing websi
 
 ## 🚀 Live Demo
 
-👉 [View Website](#)  
-*(Replace this link with your GitHub Pages URL)*
-
+👉 [View Website](tasty-spot.github.io)
 ---
 
 ## 🛠️ Built With
@@ -49,3 +47,44 @@ This project was built by students of **Zicron School** as part of a practical l
 ---
 
 ## 📂 Project Structure
+
+zicron-tasty-spot/
+│
+├── index.html # Main homepage
+│
+├── css/
+│ └── style.css # Main stylesheet
+│
+├── images/ # All images used on the site
+│
+└── README.md # Project documentation
+
+
+⭐ Acknowledgements
+
+Special thanks to our teachers and mentors, Mr. Abiodun and Miss Miracle at Zicron School for their guidance and support.
+
+📄 License
+
+This project is open-source and available for educational purposes.
+
+
+## 📸 Screenshots
+
+
+---
+
+## 📌 How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/tasty-spot/tasty-spot.github.io
+
+Open the folder:
+
+cd tasty-spot.github.io
+
+Open index.html in your browser
+
+
+Made with ❤️ by Zicron School Students
