@@ -81,13 +81,13 @@ This project is open-source and available for educational purposes.
 1. Clone the repository:
    ```bash
    git clone https://github.com/tasty-spot/tasty-spot.github.io
-
-Open the folder:
-```bash
+   
+2. Open the folder:
+   ```bash
    cd tasty-spot.github.io
-```
+   ```
 
-Open index.html in your browser
+3. Open index.html in your browser
 
 
 Made with ❤️ by Zicron School Students
